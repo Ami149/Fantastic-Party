@@ -1,0 +1,60 @@
+body {
+    font-family: sans-serif;
+    margin: 30px;
+}
+header {
+    background-color:lightblue;
+    padding: 10px;
+}
+header a {
+    text-decoration: none;
+    background-color: white;
+    padding: 5px;
+    border-radius: 10px;
+}
+header b {
+    color : rgb(0, 0, 85)
+}
+main h1 {
+    text-align: center;
+    border: 3px solid purple;
+    border-radius: 19px;
+    color: orange ;
+    font-weight: 300;
+}
+footer {
+    background-color: rgb(233, 187, 170);
+    padding: 5px;
+}
+footer P {
+    background-color: white;
+    padding : 5px;
+}
+#contacts {
+    padding-left : 30px;
+}
+select {
+    padding: 10px;
+    background-color: white;
+    border: 2px solid navy;
+    border-radius: 10px;
+    color : rgb(62, 156, 219)
+}
+option {
+    background-color: navy;
+    color: white;
+}
+.production {
+    background-color: rgb(199, 104, 80) ;
+    border-radius: 9px;
+    padding: 10px;
+    color: white;
+}
+main h2 {
+    text-align: center;
+    background-color: darkseagreen;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+
